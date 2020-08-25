@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Theo and I'm a 15 year old programmer, gamer and music producer. 
+My name is Theo and I'm a 16 year old programmer, gamer and music producer. 
 I have worked with frameworks such as React and Express.
 If you want to find out more about me, [you can head to my website](https://theoparis.com/about).
 
