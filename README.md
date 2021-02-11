@@ -4,10 +4,8 @@
         My name is Theo and I'm a 16-year-old programmer, gamer and music producer. I have worked with frameworks such
         as
         React
-        and Express. If you want to find out more about me, [you can head to my website](https://theoparis.com/about). I
-        am
-        also
-        the owner of
+        and Express. If you want to find out more about me, <a href="https://theoparis.com/about">you can head to my website</a>.
+        I am also the owner of
         <a href="https://toes.tech">Throw Out Error</a>,
         and <a href="https://blog.firenodes.com">FireNodes</a>.
     </p>
