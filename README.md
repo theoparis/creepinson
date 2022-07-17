@@ -30,7 +30,7 @@
     <p>
         <br/><br/>
         <img alt="My Github Statistics"
-             src="https://github-readme-stats.vercel.app/api?username=creepinson&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats"/>
+             src="https://github-readme-stats.vercel.app/api?username=theoparis&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats"/>
     </p>
     <h2>📫 How to reach me</h2>
     <p>
