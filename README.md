@@ -1,7 +1,7 @@
 <div align="center">
     <h1>Hi there 👋</h1>
     <p>
-        My name is Theo and I'm a 17-year-old programmer, gamer and music producer. I have worked with frameworks such
+        My name is Theo and I'm a 18-year-old programmer, gamer and music producer. I have worked with frameworks such
         as
         React
         and Express. If you want to find out more about me, <a href="https://theoparis.com/about">you can head to my website</a>.
@@ -35,7 +35,7 @@
     <h2>📫 How to reach me</h2>
     <p>
         You can reach me at <a href="mailto:theoparisdesigns@gmail.com">my email</a>,
-        or with my discord at TheoParis#6969
+        or with my discord at TheoParis#9964
     </p>
 </div>
 
