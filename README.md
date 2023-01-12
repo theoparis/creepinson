@@ -1,10 +1,13 @@
-
 ## 👋 Hello There
 
 **My name is Theo and I'm a 18-year-old programmer and music producer.
 I have worked with frameworks such as Svelte and I'm currently exploring the Zig programming language.**
 
 If you want to learn more about me, you can head to my website](https://theoparis.com).
+
+## ⚠️ Latest News
+
+**I have decided to move most of my active projects to [Codeberg](https://codeberg.org/theoparis), as well as my self hosted [forgejo](https://codeberg.org/forgejo/forgejo) instance.**
 
 ## My Setup
 
