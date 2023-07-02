@@ -4,7 +4,7 @@
 **My name is Theo and I'm a 18-year-old programmer and music producer.
 I have worked with frameworks such as Svelte and I'm currently exploring the Zig programming language.**
 
-If you want to learn more about me, you can head to my website](https://theoparis.com).
+If you want to learn more about me, [you can head to my website](https://theoparis.com).
 
 ## My Setup
 
@@ -17,7 +17,6 @@ If you want to learn more about me, you can head to my website](https://theopari
 
 ## 📫 How to reach me
 
-You can reach me at my email address ([theoparisdesigns@gmail.com](mailto:theoparisdesigns@gmail.com)),
-or with [Discord](https://discord.com) at TheoParis#9964.
-
-[I am also on mastodon](https://universeodon.com/@theoparis) and [matrix.org](https://matrix.to/#/@creepinson:matrix.org).
+- <a rel="me" href="https://fosstodon.org/@theoparis">Mastodon</a>
+- [Matrix](https://matrix.to/#/@creepinson:matrix.org)
+- [Codeberg](https://codeberg.org/theoparis)
