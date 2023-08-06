@@ -17,6 +17,7 @@ If you want to learn more about me, [you can head to my website](https://theopar
 
 ## 📫 How to reach me
 
+- [Self Hosted Forgejo](https://code.flowtr.dev)
 - <a rel="me" href="https://fosstodon.org/@theoparis">Mastodon</a>
 - [Matrix](https://matrix.to/#/@creepinson:matrix.org)
 - [Codeberg](https://codeberg.org/theoparis)
