@@ -1,7 +1,7 @@
 
 ## 👋 Hello There
 
-**My name is Theo and I'm a 18-year-old programmer and music producer.
+**My name is Theo and I'm a 19-year-old programmer and music producer.
 I have worked with frameworks such as Svelte and I'm currently exploring the Zig programming language.**
 
 If you want to learn more about me, [you can head to my website](https://theoparis.com).
