@@ -11,9 +11,9 @@ If you want to learn more about me, [you can head to my website](https://theopar
 ### ⚒️ What I am Using
 
 ![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+![C](https://img.shields.io/badge/C-blue.svg?style=for-the-badge&logo=c&logoColor=%23A8B9CC)
 
 ## 📫 How to reach me
 
